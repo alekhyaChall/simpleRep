@@ -10,6 +10,10 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    
+    var age:Int8!
+    var name:String!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -19,4 +23,5 @@ class ViewController: UIViewController {
 
 
 }
+
 
